@@ -1,0 +1,32 @@
+# created by virtualenv automatically
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.venv.*
+
+# IDE specific
+.idea/
+.vscode/
+
+.DS_Store
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# PyCharm specific
+*.iml
